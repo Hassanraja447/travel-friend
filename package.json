@@ -1,0 +1,23 @@
+{
+  "name": "travel-guide",
+  "version": "1.0.0",
+  "description": "site for travlers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassanraja447/travel-friend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassanraja447/travel-friend/issues"
+  },
+  "homepage": "https://github.com/Hassanraja447/travel-friend#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
